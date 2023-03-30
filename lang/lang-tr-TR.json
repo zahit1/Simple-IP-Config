@@ -1,0 +1,191 @@
+{
+   "language-info":{
+      "name":"Turkish",
+      "code":"tr-TR"
+   },
+   "strings":{
+      "buttonOK":"Tamam",
+      "buttonCancel":"İptal",
+      "buttonSave":"Kaydet",
+      "menu":{
+         "file":{
+            "file":"&Dosya",
+            "apply":"Geçerli Profili &Uygula",
+            "applyKey":"Enter",
+            "rename":"Y&eniden Adlandır",
+            "renameKey":"F2",
+            "new":"Ye&ni",
+            "newKey":"Ctrl+n",
+            "save":"&Kaydet",
+            "saveKey":"Ctrl+s",
+            "delete":"Si&l",
+            "deleteKey":"Del",
+            "clear":"&Temizle",
+            "clearKey":"Ctrl+c",
+            "shortcut":"Bu Profile Kısayol &Oluştur",
+            "open":"&Aç",
+            "import":"Pro&fili İçe Aktar",
+            "export":"Profili &Dışa Aktar",
+            "exit":"&Çıkış"
+         },
+         "view":{
+            "view":"&Görünüm",
+            "refresh":"&Yenile",
+            "refreshKey":"Ctrl+r",
+            "tray":"&Simge Durumuna Küçült",
+            "trayKey":"Ctrl+t",
+            "hide":"Bağdaştırıcıları &Gizle"
+         },
+         "tools":{
+            "tools":"&Araçlar",
+            "netConn":"Ağ Bağlan&tılarını Aç",
+            "pull":"&Bilgileri Bağdaştırıcıdan Çek",
+            "pullKey":"Ctrl+p",
+            "disable":"Bağdaştırıcıyı &Devredışı Bırak",
+            "enable":"Bağdaştırıcıyı &Etkinleştir",
+            "release":"DHCP Sonlandı&r",
+            "renew":"DHCP Ye&nile",
+            "cycle":"DH&CP &Sonlandır/Yenile",
+            "openprofloc":"Profiles.ini Klasörüne &Git",
+            "settings":"&Ayarlar"
+         },
+         "help":{
+            "help":"&Yardım",
+            "docs":"&Çevrimiçi Yardım",
+            "docsKey":"F1",
+            "changelog":"&Sürüm Geçmişi",
+            "update":"&Güncellemeleri Kontrol Et",
+            "debug":"&Derleme Bilgisi",
+            "about":"&Program Hakkında"
+         }
+      },
+      "traymenu":{
+         "hide":"Gizle",
+         "restore":"Pencere",
+         "about":"Hakkında",
+         "exit":"Çıkış"
+      },
+      "lvmenu":{
+         "rename":"Yeniden Adlandır",
+         "delete":"Sil",
+         "sortAsc":"Sırala A->Z",
+         "sortDesc":"Sırala Z->A",
+         "shortcut":"Bu Profile Kısayol Oluştur"
+      },
+      "toolbar":{
+         "apply":"Uygula",
+         "refresh":"Yenile",
+         "new":"Yeni",
+         "save":"Kaydet",
+         "delete":"Sil",
+         "clear":"Temizle",
+         "apply_tip":"Uygula",
+         "refresh_tip":"Yenile",
+         "new_tip":"Yeni Profil Oluştur",
+         "save_tip":"Profili Kaydet",
+         "delete_tip":"Profili Sil",
+         "clear_tip":"Girilen Bilgileri Temizle",
+         "settings_tip":"Ayarlar",
+         "tray_tip":"Simge durumuna küçült"
+      },
+      "interface":{
+         "computername":"Bilgisayar Adı",
+         "domain":"Alan Adı",
+         "workgroup":"Çalışma Grubu",
+         "adapterDesc":"Açıklama",
+         "mac":"MAC Adresi",
+         "select":"Bağdaştırıcı Seç",
+         "profiles":"Profiller",
+         "profileprops":"Profile IP Properties",
+         "currentprops":"Geçerli Bağdaştırıcı Özellikleri",
+         "restarting":"Yeniden Başlatılıyor",
+         "props":{
+            "ip":"IP Adresi",
+            "subnet":"Alt Ağ Maskesi",
+            "gateway":"Ağ Geçidi",
+            "dnsPref":"Tercih Edilen DNS Sunucusu",
+            "dnsAlt":"Alternatif DNS Sunucusu",
+            "dhcpServer":"DHCP Sunucusu",
+            "adapterState":"Bağdaştırıcı Durumu",
+            "adapterStateEnabled":"Etkin",
+            "adapterStateDisabled":"Devre Dışı",
+			"adapterStateUnplugged":"Bağlı Değil",
+            "ipauto":"IP Adresini Otomatik Ayarla",
+            "ipmanual":"IP Adresini Elle Ayarla",
+            "dnsauto":"DNS Adresini Otomatik Ayarla",
+            "dnsmanual":"DNS Adresini Elle Ayarla",
+            "dnsreg":"Adresleri Kaydet"
+         }
+      },
+      "updates":{
+         "title":"Güncelleme Bilgisi",
+         "thisVersion":"Geçerli Sürüm:",
+         "latestVersion":"En Son Sürüm",
+         "newMessage":"Yeni bir sürüm mevcut.",
+         "latestMessage":"Son sürümü kullanıyorsunuz."
+      },
+      "about":{
+         "title":"Hakkında",
+         "version":"Sürüm",
+         "date":"Tarih",
+         "dev":"Geliştirici",
+         "lic":"Lisans",
+         "desc":"Ağ ayarlarının hızlı ve kolay bir şekilde değiştirilmesini sağlayan IP değiştirici program.",
+         "icons":"Program ikonları"
+      },
+      "changelog":{
+         "changelog":"Sürüm Geçmişi"
+      },
+      "blacklist":{
+         "title":"Bağdaştırıcı Listesi",
+         "heading":"Seçili Bağdaştırıcıları Gizle"
+      },
+      "settings":{
+         "title":"Ayarlar",
+         "lang":"Dil",
+         "opt1":"Simge Durumunda Başlat",
+         "opt2":"Simge Durumuna Küçült",
+         "opt3":"Bağdaştırıcı Bilgilerini Profile Kaydet",
+         "opt4":"Güncellemeleri Otomatik Kontrol Et"
+      },
+      "message":{
+         "ready":"Hazır",
+         "timedout":"Komut zaman aşımına uğradı!  Komut iptal edildi.",
+         "couldNotSave":"Seçilen konuma kaydedilemiyor!",
+         "updatingList":"Bağdaştırıcı listesi güncelleniyor...",
+         "selectAdapter":"Bir Bağdaştırıcı seçip tekrar deneyin",
+         "enterIP":"Bir IP Adresi girin",
+         "enterSubnet":"Bir Alt Ağ Maskesi girin",
+         "settingIP":"Sabit IP Adresi ayarlanıyor...",
+         "settingDnsDhcp":"DNS DHCP ayarlanıyor...",
+         "settingDnsPref":"Tercih edilen DNS Sunucusu ayarlanıyor...",
+         "settingDnsAlt":"Alternatif DNS Sunucusu ayarlanıyor...",
+         "errorOccurred":"Bir hata oluştu",
+         "profileNameExists":"Bu profil adı zaten var!",
+         "noProfileSel":"Seçilen profil bulunamadı!",
+         "profilesNotFound":"Profiles.ini dosyası bulunamadı - Yeni bir dosya oluşturulacak",
+         "errorReadingProf":"Profiles.ini dosya okuma hatası",
+         "adapterNotFound":"Bağdaştırıcı bulunamadı",
+         "error":"Hata",
+         "warning":"Dikkat",
+         "newItem":"Yeni Öğe",
+         "applying":"Profil uygulanıyor",
+         "errorRetrieving":"There was a problem retrieving the adapters.",
+         "commandTimeout":"Komut zaman aşımına uğradı",
+         "updateCheckError":"Güncelleme sırasında bir hata oluştu.",
+         "checkConnect":"Lütfen İnternet bağlantınızı kontrol ediniz.",
+         "errorCode":"Hata Kodu",
+         "newVersion":"Yeni bir sürüm bulundu",
+         "currentVersion":"Zaten en son sürümü kullanıyorsunuz.",
+         "yourVersion":"Sürümünüz",
+         "latestVersion":"Son Sürüm",
+         "loadedFile":"Yüklenen Dosya",
+         "doneImporting":"İçe aktarma başarılı",
+         "fileSaved":"Dosya kaydedildi"
+      },
+      "dialog":{
+         "selectFile":"Dosya Seç",
+         "ini":"INI Dosyaları"
+      }
+   }
+}
